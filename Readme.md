@@ -8,9 +8,9 @@
 <hr>
 
 ### :zap: Tecnologias
-* [Microsoft Azure IA Document Inteligence]('https://learn.microsoft.com/pt-br/azure/ai-services/document-intelligence/?view=doc-intel-4.0.0')
-* [Javascript]('https://developer.mozilla.org/es/docs/Web/JavaScript')
-* [NodeJS]('https://nodejs.org/pt')
+* [Microsoft Azure IA Document Inteligence](https://learn.microsoft.com/pt-br/azure/ai-services/document-intelligence/?view=doc-intel-4.0.0)
+* [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+* [NodeJS](https://nodejs.org/pt)
 <br>
 <hr>
 
