@@ -5,13 +5,12 @@
 
 ## :computer: Descrição
 **Objetivo**: Extrair dados de um recibo com o servico Azure Document Intelligence
-**Nota**: Para esse exemplo, os recibos a serem analisados estão contidos na pasta **./receipts**
 <hr>
 
 ### :zap: Tecnologias
-* Microsoft Azure IA Document Inteligence
-* Javascript
-* NodeJS
+* [Microsoft Azure IA Document Inteligence]('https://learn.microsoft.com/pt-br/azure/ai-services/document-intelligence/?view=doc-intel-4.0.0')
+* [Javascript]('https://developer.mozilla.org/es/docs/Web/JavaScript')
+* [NodeJS]('https://nodejs.org/pt')
 <br>
 <hr>
 
@@ -24,7 +23,7 @@
 ## :arrow_forward: Execução
 
 ##### 1 - Clonar o repositório
-  `git clone https://github.com/me-wsantos/dio-ai-102-analise-documentos-azureai.git`
+  `git clone https://github.com/me-wsantos/azure-ai-document-analysis-receipt.git`
 
 ##### 2 - Abrir a pasta do projeto e instalar as dependências
   `npm install`
